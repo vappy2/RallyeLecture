@@ -1,4 +1,4 @@
-# RallyeLectureCSharp #
+# Rallye Lecture Application C# #
 
 ## But du projet ##
 
@@ -7,3 +7,7 @@ les intégrer à la base de données pour que chaque élèves est un compte.
 
 ##### Application Windows form #####
 Cette interface permet l'intégration de chaques élèves et permettre de définir un login et un mot de passe contruit ou aléatoire
+![Interface](https://github.com/vappy2/RallyeLectureCSharp/blob/master/Image/Interface.JPG)
+
+##### Language et Outils #####
+> C# (Widows Form) 
