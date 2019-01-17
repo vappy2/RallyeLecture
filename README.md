@@ -14,7 +14,9 @@ les intégrer à la base de données pour que chaque élèves est un compte.
   ![BDD Diagram aauth](https://github.com/vappy2/RallyeLectureCSharp/blob/master/Image/bdd%20aauth.PNG)
   * * * 
 ##### Application Windows form #####
+> L'interface
 
+![Interface](https://github.com/vappy2/RallyeLectureCSharp/blob/master/Image/Interface.JPG)
 
 Elle permet d'inscrire chaque élève dans la base de données afin de l'alimenter et de plus de leur créer un login, un mot de passe contruit ou aléatoire, de savoir leur niveau scolaire et l'année.
 
