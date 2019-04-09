@@ -2,8 +2,8 @@
 
 ## But du projet ##
 
-Le but de cet application est de pouvoir alimenter la liste des élvès de toutes les classe via des fichiers csv et ainsi pouvoir
-les intégrer à la base de données pour que chaque élèves est un compte.
+Le but de cette application est de pouvoir alimenter la liste des élèves de toutes les classes via des fichiers csv et ainsi pouvoir
+les intégrer à la base de données pour que chaques élèves est un compte.
 
 ## Structure de la base de données ##
 > La base de données complète 
