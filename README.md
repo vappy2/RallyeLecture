@@ -18,7 +18,13 @@ les intégrer à la base de données pour que chaques élèves est un compte.
 
 ![Interface](https://github.com/vappy2/RallyeLectureCSharp/blob/master/Image/Interface.JPG)
 
-Elle permet d'inscrire chaque élève dans la base de données afin de l'alimenter et de plus de leur créer un login, un mot de passe contruit ou aléatoire, de savoir leur niveau scolaire et l'année.
+Elle permet d'inscrire les élèves dans la base de données avec les critère suivants :
+>Nom et prénom
+>Classe
+>Année scolaire
+
+Grâce à celà on pourra alors créer un login et un mot de passe (aléatoire ou bien construit) pour des comptes utilisateurs
+
 
 ##### Language et Outils #####
 > C# (Widows Form) 
