@@ -18,12 +18,12 @@ les intégrer à la base de données pour que chaques élèves est un compte.
 
 ![Interface](https://github.com/vappy2/RallyeLectureCSharp/blob/master/Image/Interface.JPG)
 
-Elle permet d'inscrire les élèves dans la base de données avec les critère suivants :
->Nom et prénom
->Classe
->Année scolaire
+Elle permet d'inscrire les élèves dans la base de données avec les critères suivants :
+* Nom et prénom
+* Classe
+* Année scolaire
 
-Grâce à celà on pourra alors créer un login et un mot de passe (aléatoire ou bien construit) pour des comptes utilisateurs
+Cela permet de créer un login et un mot de passe (aléatoire ou bien construit) pour des comptes utilisateurs
 
 
 ##### Language et Outils #####
